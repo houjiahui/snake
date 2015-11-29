@@ -1,0 +1,19 @@
+body{
+    margin:0;
+    padding:0;
+}
+#beijing{
+    box-shadow:0 0 10px black inset;
+    width:600px;
+    height:600px;
+    border:1px solid black;
+    border-right:none;
+    border-bottom:none;
+    background-color:black;
+    margin:20px auto;
+}
+.scbox{
+    background-color:white;
+    margin:0 1px 1px 0;
+    float:left;
+}
